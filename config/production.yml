@@ -1,0 +1,39 @@
+application:
+  title: OpenCFP
+  url: http://cfp.dev
+  email: contact@openconf.com
+  eventurl: http://myenvent.com
+  event_location: Miami, FL
+  enddate: Oct. 14th, 2016
+  show_submission_count: false
+  airport: MIA
+  arrival: 2014-10-26
+  departure: 2014-10-31
+  secure_ssl: false
+  online_conference: false
+  date_format: d/m/Y
+
+
+api:
+  enabled: false
+
+cache:
+  enabled: false
+
+database:
+  host: 192.241.179.236
+  database: opencfp
+  dsn: mysql:dbname=opencfp;host=192.241.179.236
+  user: root
+  password: aWqGK88f8I
+
+log:
+  level: error
+
+mail:
+  host: ~
+  port: ~
+  username: ~
+  password: ~
+  encryption: ~
+  auth_mode: ~

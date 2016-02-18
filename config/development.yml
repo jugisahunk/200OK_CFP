@@ -1,0 +1,39 @@
+application:
+  title: 200OK
+  url: 200ok.us 
+  email: jason.t.knight@gmail.com
+  eventurl: http://200OK.us
+  event_location: Tulsa, OK
+  enddate: April 3rd, 2016
+  show_submission_count: false
+  airport: TUL
+  arrival: 2016-03-06
+  departure: 2016-04-06
+  secure_ssl: false
+  online_conference: false
+  date_format: d/m/Y
+
+
+api:
+  enabled: false
+
+cache:
+  enabled: false
+
+database:
+  host: localhost
+  database: opencfp
+  dsn: mysql:dbname=opencfp;host=localhost
+  user: root
+  password: aWqGK88f8I
+
+log:
+  level: error
+
+mail:
+  host: ~
+  port: ~
+  username: ~
+  password: ~
+  encryption: ~
+  auth_mode: ~
