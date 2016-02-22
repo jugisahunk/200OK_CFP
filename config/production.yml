@@ -1,14 +1,14 @@
 application:
-  title: OpenCFP
-  url: http://cfp.dev
-  email: contact@openconf.com
-  eventurl: http://myenvent.com
-  event_location: Miami, FL
-  enddate: Oct. 14th, 2016
+  title: 200OK
+  url: 200ok.us 
+  email: jason.t.knight@gmail.com
+  eventurl: http://200OK.us
+  event_location: Tulsa, OK
+  enddate: April 3rd, 2016
   show_submission_count: false
-  airport: MIA
-  arrival: 2014-10-26
-  departure: 2014-10-31
+  airport: TUL
+  arrival: 2016-03-06
+  departure: 2016-04-06
   secure_ssl: false
   online_conference: false
   date_format: d/m/Y
@@ -21,9 +21,9 @@ cache:
   enabled: false
 
 database:
-  host: 192.241.179.236
+  host: localhost
   database: opencfp
-  dsn: mysql:dbname=opencfp;host=192.241.179.236
+  dsn: mysql:dbname=opencfp;host=localhost
   user: root
   password: aWqGK88f8I
 

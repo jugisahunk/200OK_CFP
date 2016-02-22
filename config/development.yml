@@ -5,6 +5,7 @@ application:
   eventurl: http://200OK.us
   event_location: Tulsa, OK
   enddate: April 3rd, 2016
+  testing: Hello World
   show_submission_count: false
   airport: TUL
   arrival: 2016-03-06
